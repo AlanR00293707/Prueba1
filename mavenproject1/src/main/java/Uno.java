@@ -25,6 +25,10 @@ public class Uno {
         if (valorUno<valorDos)
             System.out.println("El numero mayor es"+valorDos);
         
+        if (valorUno==valorDos)
+            System.out.println("Los numeros son iguales");
+        
+        
         else
             System.out.println("El numero mayor es:"+valorDos);
     }  
