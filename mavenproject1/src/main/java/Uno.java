@@ -32,6 +32,6 @@ public class Uno {
         else
             System.out.println("El numero mayor es:"+valorDos);
         
-        System.out.println("Hasta Pronto");
+        System.out.println("Hasta Pronto.");
     }  
 }
