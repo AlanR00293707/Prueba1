@@ -22,7 +22,7 @@ public class Uno {
         valorDos=Integer.parseInt (scanner.nextLine());
         
         
-        if (valorUno<valorDos)
+        if (valorUno>valorDos)
             System.out.println("El numero mayor es"+valorDos);
         
         if (valorUno==valorDos)
